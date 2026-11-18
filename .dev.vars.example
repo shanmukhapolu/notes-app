@@ -1,0 +1,5 @@
+# Copy this file to .dev.vars for local Cloudflare Pages Functions development.
+# Use your Neon connection string and Auth0 API settings.
+DATABASE_URL=postgresql://USER:PASSWORD@HOST/DBNAME?sslmode=require
+AUTH0_DOMAIN=your-tenant.us.auth0.com
+AUTH0_AUDIENCE=https://notes-api
