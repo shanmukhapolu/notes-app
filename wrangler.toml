@@ -1,0 +1,7 @@
+name = "notes-app"
+compatibility_date = "2026-11-18"
+pages_build_output_dir = "./dist"
+
+[vars]
+# Set AUTH0_DOMAIN and AUTH0_AUDIENCE as Cloudflare Pages environment variables.
+# Set DATABASE_URL as a secret in Cloudflare Pages. Never commit real credentials.
